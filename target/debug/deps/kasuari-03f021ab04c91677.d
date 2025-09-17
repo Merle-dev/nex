@@ -1,0 +1,14 @@
+/home/merle/dev/rust/nex/target/debug/deps/kasuari-03f021ab04c91677.d: /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/lib.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/constraint.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/error.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/expression.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/relations.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/row.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/solver.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/strength.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/term.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/variable.rs
+
+/home/merle/dev/rust/nex/target/debug/deps/libkasuari-03f021ab04c91677.rmeta: /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/lib.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/constraint.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/error.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/expression.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/relations.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/row.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/solver.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/strength.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/term.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/variable.rs
+
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/lib.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/constraint.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/error.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/expression.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/relations.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/row.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/solver.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/strength.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/term.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/kasuari-0.4.9/src/variable.rs:

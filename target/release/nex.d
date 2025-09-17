@@ -1,1 +1,1 @@
-/home/merle/dev/rust/nex/target/release/nex: /home/merle/dev/rust/nex/src/app/mod.rs /home/merle/dev/rust/nex/src/app/widget.rs /home/merle/dev/rust/nex/src/key_controller.rs /home/merle/dev/rust/nex/src/key_table_parser.rs /home/merle/dev/rust/nex/src/main.rs /home/merle/dev/rust/nex/src/text_buffer/mod.rs /home/merle/dev/rust/nex/src/text_buffer/text_mutation.rs /home/merle/dev/rust/nex/src/tree.rs
+/home/merle/dev/rust/nex/target/release/nex: /home/merle/dev/rust/nex/src/main.rs

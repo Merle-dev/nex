@@ -1,0 +1,12 @@
+/home/merle/dev/rust/nex/target/debug/deps/writeable-f70cd57940b44358.d: /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs
+
+/home/merle/dev/rust/nex/target/debug/deps/libwriteable-f70cd57940b44358.rmeta: /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs /home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs
+
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/lib.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/cmp.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/impls.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/ops.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/parts_write_adapter.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/testing.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/to_string_or_borrow.rs:
+/home/merle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/writeable-0.6.1/src/try_writeable.rs:
